@@ -16,7 +16,7 @@ Download the following files to help you get started:
 
 https://static.bc-edx.com/data/dl-1-2/m5/lms/starter/Starter_Code.zip
 
-### Instructions
+# Instructions
 This assignment is broken down into the following tasks:
 
 * Prepare the data.
