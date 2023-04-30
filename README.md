@@ -75,7 +75,7 @@ Your summary statistics should include:
 
 2. Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
-HINT: All four box plots should be within the same figure. Use this https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py for help with changing the style of the outliers.
+HINT: All four box plots should be within the same figure. Use this Matplotlib documentation page (https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
 ### Calculate Correlation and Regression
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
